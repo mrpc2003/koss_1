@@ -2,7 +2,7 @@
 
 English | [한국어](README.ko.md)
 
-# koss_1
+# HTML/CSS Intro Practice
 
 **HTML/CSS Introductory Practice — WEB1 Tutorial Clone & Music Player UI**
 
@@ -52,8 +52,8 @@ No build tools or dependencies are required. Serve the files with any static ser
 
 ```bash
 # Clone the repository
-git clone https://github.com/mrpc2003/koss_1.git
-cd koss_1
+git clone https://github.com/mrpc2003/html-css-intro-practice.git
+cd html-css-intro-practice
 
 # Start a local server (Python 3)
 python3 -m http.server 8000
@@ -138,7 +138,7 @@ The WEB1 tutorial pages are linked to each other via a shared top navigation men
 ## Project Structure
 
 ```
-koss_1/
+html-css-intro-practice/
 ├── index.html          # Entry point (WEB1 - Welcome)
 ├── 1.html              # HTML introduction page
 ├── 2.html              # CSS introduction page (internal <style>)
